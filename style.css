@@ -589,7 +589,7 @@ body{
     .banner .box .search input{
         margin-bottom: 10px;
         min-width: 180%;
-        margin-right: 16px;
+        /* margin-right: 16px; */
     
     }
     
@@ -640,7 +640,7 @@ body{
     .banner2 .box .search input{
         min-width: 90%;
         height: 60px;
-        margin-right: 16px;
+        /* margin-right: 16px; */
     
     }
 
